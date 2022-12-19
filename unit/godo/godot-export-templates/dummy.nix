@@ -1,1 +1,0 @@
-{ name = "godot-export-templates"; }

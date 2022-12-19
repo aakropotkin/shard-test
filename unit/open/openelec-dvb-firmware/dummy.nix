@@ -1,1 +1,0 @@
-{ name = "openelec-dvb-firmware"; }

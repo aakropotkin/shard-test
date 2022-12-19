@@ -1,1 +1,0 @@
-{ name = "armtrustedfirmwarerk3399"; }

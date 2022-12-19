@@ -1,1 +1,0 @@
-{ name = "inav-configurator"; }

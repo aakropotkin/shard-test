@@ -1,1 +1,0 @@
-{ name = "libbass_fx"; }

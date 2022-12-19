@@ -1,1 +1,0 @@
-{ name = "pidgin-xmpp-receipts"; }

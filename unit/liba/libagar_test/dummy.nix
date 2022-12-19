@@ -1,1 +1,0 @@
-{ name = "libagar_test"; }

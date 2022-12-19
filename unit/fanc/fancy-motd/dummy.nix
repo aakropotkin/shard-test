@@ -1,1 +1,0 @@
-{ name = "fancy-motd"; }

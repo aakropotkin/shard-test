@@ -1,1 +1,0 @@
-{ name = "sdnotify-wrapper"; }

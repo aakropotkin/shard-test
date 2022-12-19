@@ -1,1 +1,0 @@
-{ name = "mathpix-snipping-tool"; }

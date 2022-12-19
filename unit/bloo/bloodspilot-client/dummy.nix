@@ -1,1 +1,0 @@
-{ name = "bloodspilot-client"; }

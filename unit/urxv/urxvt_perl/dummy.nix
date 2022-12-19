@@ -1,1 +1,0 @@
-{ name = "urxvt_perl"; }

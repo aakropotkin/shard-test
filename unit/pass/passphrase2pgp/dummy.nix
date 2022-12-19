@@ -1,1 +1,0 @@
-{ name = "passphrase2pgp"; }

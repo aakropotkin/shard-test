@@ -1,1 +1,0 @@
-{ name = "intel-gpu-tools"; }

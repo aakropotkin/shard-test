@@ -1,1 +1,0 @@
-{ name = "xdg-dbus-proxy"; }

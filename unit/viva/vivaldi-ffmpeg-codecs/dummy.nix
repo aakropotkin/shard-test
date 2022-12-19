@@ -1,1 +1,0 @@
-{ name = "vivaldi-ffmpeg-codecs"; }

@@ -1,1 +1,0 @@
-{ name = "whatsapp-for-linux"; }

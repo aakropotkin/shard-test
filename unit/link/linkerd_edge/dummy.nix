@@ -1,1 +1,0 @@
-{ name = "linkerd_edge"; }

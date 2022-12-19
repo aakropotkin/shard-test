@@ -1,1 +1,0 @@
-{ name = "cfs-zen-tweaks"; }

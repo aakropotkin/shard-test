@@ -1,1 +1,0 @@
-{ name = "hercules-ci-agent"; }

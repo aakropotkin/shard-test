@@ -1,1 +1,0 @@
-{ name = "stm32cubemx"; }

@@ -1,1 +1,0 @@
-{ name = "opl3bankeditor"; }

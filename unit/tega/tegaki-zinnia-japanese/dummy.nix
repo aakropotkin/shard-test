@@ -1,1 +1,0 @@
-{ name = "tegaki-zinnia-japanese"; }

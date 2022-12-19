@@ -1,1 +1,0 @@
-{ name = "kaitai-struct-compiler"; }

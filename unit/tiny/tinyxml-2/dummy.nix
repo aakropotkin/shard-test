@@ -1,1 +1,0 @@
-{ name = "tinyxml-2"; }

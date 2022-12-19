@@ -1,1 +1,0 @@
-{ name = "vamp-plugin-sdk"; }

@@ -1,1 +1,0 @@
-{ name = "nomad-driver-podman"; }

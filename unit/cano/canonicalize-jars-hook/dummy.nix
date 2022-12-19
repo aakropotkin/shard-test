@@ -1,1 +1,0 @@
-{ name = "canonicalize-jars-hook"; }

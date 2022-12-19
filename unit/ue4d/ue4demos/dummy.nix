@@ -1,1 +1,0 @@
-{ name = "ue4demos"; }

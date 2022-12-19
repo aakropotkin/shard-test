@@ -1,1 +1,0 @@
-{ name = "miniupnpc_1"; }

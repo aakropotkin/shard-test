@@ -1,1 +1,0 @@
-{ name = "ugarit-manifest-maker"; }

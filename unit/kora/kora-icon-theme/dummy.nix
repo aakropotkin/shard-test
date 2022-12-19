@@ -1,1 +1,0 @@
-{ name = "kora-icon-theme"; }

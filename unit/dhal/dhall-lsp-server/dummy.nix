@@ -1,1 +1,0 @@
-{ name = "dhall-lsp-server"; }

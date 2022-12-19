@@ -1,1 +1,0 @@
-{ name = "out-of-tree"; }

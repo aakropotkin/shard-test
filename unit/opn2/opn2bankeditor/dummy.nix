@@ -1,1 +1,0 @@
-{ name = "opn2bankeditor"; }

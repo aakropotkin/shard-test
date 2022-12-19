@@ -1,1 +1,0 @@
-{ name = "lua52packages"; }

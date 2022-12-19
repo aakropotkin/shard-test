@@ -1,1 +1,0 @@
-{ name = "plantuml-c4"; }

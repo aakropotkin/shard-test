@@ -1,1 +1,0 @@
-{ name = "ber_metaocaml"; }

@@ -1,1 +1,0 @@
-{ name = "squashfs-tools-ng"; }

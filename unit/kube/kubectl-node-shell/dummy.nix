@@ -1,1 +1,0 @@
-{ name = "kubectl-node-shell"; }

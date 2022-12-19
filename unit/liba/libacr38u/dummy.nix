@@ -1,1 +1,0 @@
-{ name = "libacr38u"; }

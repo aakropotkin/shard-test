@@ -1,1 +1,0 @@
-{ name = "apngasm_2"; }

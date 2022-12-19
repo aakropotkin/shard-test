@@ -1,1 +1,0 @@
-{ name = "planetary_annihilation"; }

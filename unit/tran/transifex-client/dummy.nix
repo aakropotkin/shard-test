@@ -1,1 +1,0 @@
-{ name = "transifex-client"; }

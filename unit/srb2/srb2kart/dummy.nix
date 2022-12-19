@@ -1,1 +1,0 @@
-{ name = "srb2kart"; }

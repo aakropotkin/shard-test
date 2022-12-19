@@ -1,1 +1,0 @@
-{ name = "copyright-update"; }

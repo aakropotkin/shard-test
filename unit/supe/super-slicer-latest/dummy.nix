@@ -1,1 +1,0 @@
-{ name = "super-slicer-latest"; }

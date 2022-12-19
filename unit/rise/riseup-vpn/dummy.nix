@@ -1,1 +1,0 @@
-{ name = "riseup-vpn"; }

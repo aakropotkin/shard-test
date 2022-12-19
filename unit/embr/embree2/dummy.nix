@@ -1,1 +1,0 @@
-{ name = "embree2"; }

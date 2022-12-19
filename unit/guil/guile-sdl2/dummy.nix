@@ -1,1 +1,0 @@
-{ name = "guile-sdl2"; }

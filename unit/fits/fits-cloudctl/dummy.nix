@@ -1,1 +1,0 @@
-{ name = "fits-cloudctl"; }

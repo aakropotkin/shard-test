@@ -1,1 +1,0 @@
-{ name = "aws-crt-cpp"; }

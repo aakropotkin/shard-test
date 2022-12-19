@@ -1,1 +1,0 @@
-{ name = "system-config-printer"; }

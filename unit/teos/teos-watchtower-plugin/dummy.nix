@@ -1,1 +1,0 @@
-{ name = "teos-watchtower-plugin"; }

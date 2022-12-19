@@ -1,1 +1,0 @@
-{ name = "documize-community"; }

@@ -1,1 +1,0 @@
-{ name = "sierra-breeze-enhanced"; }

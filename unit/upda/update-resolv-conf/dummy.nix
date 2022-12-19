@@ -1,1 +1,0 @@
-{ name = "update-resolv-conf"; }

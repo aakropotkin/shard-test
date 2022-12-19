@@ -1,1 +1,0 @@
-{ name = "cdi2iso"; }

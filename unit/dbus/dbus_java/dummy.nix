@@ -1,1 +1,0 @@
-{ name = "dbus_java"; }

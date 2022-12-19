@@ -1,1 +1,0 @@
-{ name = "rofi-file-browser"; }

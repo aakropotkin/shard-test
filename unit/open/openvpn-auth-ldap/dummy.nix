@@ -1,1 +1,0 @@
-{ name = "openvpn-auth-ldap"; }

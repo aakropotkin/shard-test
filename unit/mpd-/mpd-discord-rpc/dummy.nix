@@ -1,1 +1,0 @@
-{ name = "mpd-discord-rpc"; }

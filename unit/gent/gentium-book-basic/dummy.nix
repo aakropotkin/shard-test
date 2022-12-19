@@ -1,1 +1,0 @@
-{ name = "gentium-book-basic"; }

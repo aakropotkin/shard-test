@@ -1,1 +1,0 @@
-{ name = "kicad-small"; }

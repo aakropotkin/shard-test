@@ -1,1 +1,0 @@
-{ name = "efficient-compression-tool"; }

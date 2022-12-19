@@ -1,1 +1,0 @@
-{ name = "colloid-gtk-theme"; }

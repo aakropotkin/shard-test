@@ -1,1 +1,0 @@
-{ name = "mni_autoreg"; }

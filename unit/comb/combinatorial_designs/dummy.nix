@@ -1,1 +1,0 @@
-{ name = "combinatorial_designs"; }

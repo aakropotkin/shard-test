@@ -1,1 +1,0 @@
-{ name = "kmod-blacklist-ubuntu"; }

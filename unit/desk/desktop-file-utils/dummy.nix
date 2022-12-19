@@ -1,1 +1,0 @@
-{ name = "desktop-file-utils"; }

@@ -1,1 +1,0 @@
-{ name = "nix-prefetch-bzr"; }

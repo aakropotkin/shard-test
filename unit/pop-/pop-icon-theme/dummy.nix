@@ -1,1 +1,0 @@
-{ name = "pop-icon-theme"; }

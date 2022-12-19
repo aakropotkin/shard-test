@@ -1,1 +1,0 @@
-{ name = "redshift-plasma-applet"; }

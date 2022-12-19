@@ -1,1 +1,0 @@
-{ name = "oppai-ng"; }

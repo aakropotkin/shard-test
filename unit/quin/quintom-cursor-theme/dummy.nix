@@ -1,1 +1,0 @@
-{ name = "quintom-cursor-theme"; }

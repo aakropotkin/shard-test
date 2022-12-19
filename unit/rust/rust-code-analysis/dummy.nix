@@ -1,1 +1,0 @@
-{ name = "rust-code-analysis"; }

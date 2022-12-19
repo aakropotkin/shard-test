@@ -1,1 +1,0 @@
-{ name = "littlefs-fuse"; }

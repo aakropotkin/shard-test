@@ -1,1 +1,0 @@
-{ name = "gi-docgen"; }

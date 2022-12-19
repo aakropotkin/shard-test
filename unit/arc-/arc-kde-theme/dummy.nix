@@ -1,1 +1,0 @@
-{ name = "arc-kde-theme"; }

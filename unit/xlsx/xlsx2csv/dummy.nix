@@ -1,1 +1,0 @@
-{ name = "xlsx2csv"; }

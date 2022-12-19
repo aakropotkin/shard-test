@@ -1,1 +1,0 @@
-{ name = "git-filter-repo"; }

@@ -1,1 +1,0 @@
-{ name = "arch-install-scripts"; }

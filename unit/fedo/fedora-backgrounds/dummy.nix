@@ -1,1 +1,0 @@
-{ name = "fedora-backgrounds"; }

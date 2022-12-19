@@ -1,1 +1,0 @@
-{ name = "galaxy-buds-client"; }

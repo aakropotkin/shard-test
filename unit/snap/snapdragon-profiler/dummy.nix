@@ -1,1 +1,0 @@
-{ name = "snapdragon-profiler"; }

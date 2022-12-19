@@ -1,1 +1,0 @@
-{ name = "firefox_decrypt"; }

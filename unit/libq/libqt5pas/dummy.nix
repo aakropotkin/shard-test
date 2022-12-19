@@ -1,1 +1,0 @@
-{ name = "libqt5pas"; }

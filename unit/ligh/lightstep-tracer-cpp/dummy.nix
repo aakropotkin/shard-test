@@ -1,1 +1,0 @@
-{ name = "lightstep-tracer-cpp"; }

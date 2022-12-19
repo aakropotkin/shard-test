@@ -1,1 +1,0 @@
-{ name = "elliptic_curves"; }

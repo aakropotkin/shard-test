@@ -1,1 +1,0 @@
-{ name = "vazir-code-font"; }

@@ -1,1 +1,0 @@
-{ name = "pypi2nix"; }

@@ -1,1 +1,0 @@
-{ name = "alsa-ucm-conf"; }

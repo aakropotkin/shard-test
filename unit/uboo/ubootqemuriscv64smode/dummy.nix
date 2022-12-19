@@ -1,1 +1,0 @@
-{ name = "ubootqemuriscv64smode"; }

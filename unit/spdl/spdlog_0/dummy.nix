@@ -1,1 +1,0 @@
-{ name = "spdlog_0"; }

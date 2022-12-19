@@ -1,1 +1,0 @@
-{ name = "tempora_lgc"; }

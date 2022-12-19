@@ -1,1 +1,0 @@
-{ name = "libmongo-client"; }

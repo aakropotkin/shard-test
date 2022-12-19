@@ -1,1 +1,0 @@
-{ name = "social-engineer-toolkit"; }

@@ -1,1 +1,0 @@
-{ name = "bozohttpd-minimal"; }

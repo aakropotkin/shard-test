@@ -1,1 +1,0 @@
-{ name = "webdav-server-rs"; }

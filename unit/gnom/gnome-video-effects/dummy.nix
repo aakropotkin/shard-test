@@ -1,1 +1,0 @@
-{ name = "gnome-video-effects"; }

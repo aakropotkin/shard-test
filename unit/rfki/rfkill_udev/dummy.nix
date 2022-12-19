@@ -1,1 +1,0 @@
-{ name = "rfkill_udev"; }

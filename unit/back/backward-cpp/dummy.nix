@@ -1,1 +1,0 @@
-{ name = "backward-cpp"; }

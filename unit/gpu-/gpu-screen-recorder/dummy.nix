@@ -1,1 +1,0 @@
-{ name = "gpu-screen-recorder"; }

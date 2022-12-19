@@ -1,1 +1,0 @@
-{ name = "ookla-speedtest"; }

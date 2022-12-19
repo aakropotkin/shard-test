@@ -1,1 +1,0 @@
-{ name = "cyrus_sasl"; }

@@ -1,1 +1,0 @@
-{ name = "gen6dns"; }

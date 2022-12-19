@@ -1,1 +1,0 @@
-{ name = "fetchmail_7"; }

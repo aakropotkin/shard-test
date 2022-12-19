@@ -1,1 +1,0 @@
-{ name = "xonotic-sdl"; }

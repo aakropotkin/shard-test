@@ -1,1 +1,0 @@
-{ name = "mlarchive2maildir"; }

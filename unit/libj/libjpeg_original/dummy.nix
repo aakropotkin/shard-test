@@ -1,1 +1,0 @@
-{ name = "libjpeg_original"; }

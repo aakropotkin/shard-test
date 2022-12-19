@@ -1,1 +1,0 @@
-{ name = "liberal-crime-squad"; }

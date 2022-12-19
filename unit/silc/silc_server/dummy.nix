@@ -1,1 +1,0 @@
-{ name = "silc_server"; }

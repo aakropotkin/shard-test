@@ -1,1 +1,0 @@
-{ name = "cached-nix-shell"; }

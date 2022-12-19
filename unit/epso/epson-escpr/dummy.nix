@@ -1,1 +1,0 @@
-{ name = "epson-escpr"; }

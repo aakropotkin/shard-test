@@ -1,1 +1,0 @@
-{ name = "libpg_query"; }

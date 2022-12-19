@@ -1,1 +1,0 @@
-{ name = "prometheus-zfs-exporter"; }

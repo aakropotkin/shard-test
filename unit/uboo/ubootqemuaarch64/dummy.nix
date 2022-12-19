@@ -1,1 +1,0 @@
-{ name = "ubootqemuaarch64"; }

@@ -1,1 +1,0 @@
-{ name = "uefi-firmware-parser"; }

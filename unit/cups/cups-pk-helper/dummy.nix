@@ -1,1 +1,0 @@
-{ name = "cups-pk-helper"; }

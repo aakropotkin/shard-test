@@ -1,1 +1,0 @@
-{ name = "disk_indicator"; }

@@ -1,1 +1,0 @@
-{ name = "tamarin-prover"; }

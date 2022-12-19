@@ -1,1 +1,0 @@
-{ name = "shattered-pixel-dungeon"; }

@@ -1,1 +1,0 @@
-{ name = "doxygen_gui"; }

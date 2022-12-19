@@ -1,1 +1,0 @@
-{ name = "steam-rom-manager"; }

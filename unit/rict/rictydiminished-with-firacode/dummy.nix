@@ -1,1 +1,0 @@
-{ name = "rictydiminished-with-firacode"; }

@@ -1,1 +1,0 @@
-{ name = "resolve-march-native"; }

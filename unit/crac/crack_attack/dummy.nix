@@ -1,1 +1,0 @@
-{ name = "crack_attack"; }

@@ -1,1 +1,0 @@
-{ name = "jtag-remote-server"; }

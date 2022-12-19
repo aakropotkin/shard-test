@@ -1,1 +1,0 @@
-{ name = "ipfs-upload-client"; }

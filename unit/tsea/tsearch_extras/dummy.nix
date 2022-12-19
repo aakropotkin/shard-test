@@ -1,1 +1,0 @@
-{ name = "tsearch_extras"; }

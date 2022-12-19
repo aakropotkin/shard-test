@@ -1,1 +1,0 @@
-{ name = "mint-x-icons"; }

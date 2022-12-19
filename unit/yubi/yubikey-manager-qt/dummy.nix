@@ -1,1 +1,0 @@
-{ name = "yubikey-manager-qt"; }

@@ -1,1 +1,0 @@
-{ name = "pyprof2calltree"; }

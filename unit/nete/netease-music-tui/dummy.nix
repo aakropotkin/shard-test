@@ -1,1 +1,0 @@
-{ name = "netease-music-tui"; }

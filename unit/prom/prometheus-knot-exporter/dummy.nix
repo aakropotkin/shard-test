@@ -1,1 +1,0 @@
-{ name = "prometheus-knot-exporter"; }

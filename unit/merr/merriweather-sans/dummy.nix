@@ -1,1 +1,0 @@
-{ name = "merriweather-sans"; }

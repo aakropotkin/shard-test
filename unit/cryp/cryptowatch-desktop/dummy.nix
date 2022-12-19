@@ -1,1 +1,0 @@
-{ name = "cryptowatch-desktop"; }

@@ -1,1 +1,0 @@
-{ name = "gtk-sharp-beans"; }

@@ -1,1 +1,0 @@
-{ name = "fantasque-sans-mono"; }

@@ -1,1 +1,0 @@
-{ name = "oonf-olsrd2"; }

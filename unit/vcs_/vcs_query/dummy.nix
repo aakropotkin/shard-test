@@ -1,1 +1,0 @@
-{ name = "vcs_query"; }

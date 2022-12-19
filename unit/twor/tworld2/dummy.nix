@@ -1,1 +1,0 @@
-{ name = "tworld2"; }

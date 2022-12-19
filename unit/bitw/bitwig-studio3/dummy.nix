@@ -1,1 +1,0 @@
-{ name = "bitwig-studio3"; }

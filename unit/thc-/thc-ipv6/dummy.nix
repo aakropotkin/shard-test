@@ -1,1 +1,0 @@
-{ name = "thc-ipv6"; }

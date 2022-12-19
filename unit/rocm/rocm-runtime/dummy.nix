@@ -1,1 +1,0 @@
-{ name = "rocm-runtime"; }

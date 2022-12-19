@@ -1,1 +1,0 @@
-{ name = "segger-jlink"; }

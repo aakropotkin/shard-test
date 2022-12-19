@@ -1,1 +1,0 @@
-{ name = "rotate-backups"; }

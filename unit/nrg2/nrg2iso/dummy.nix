@@ -1,1 +1,0 @@
-{ name = "nrg2iso"; }

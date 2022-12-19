@@ -1,1 +1,0 @@
-{ name = "nordzy-icon-theme"; }

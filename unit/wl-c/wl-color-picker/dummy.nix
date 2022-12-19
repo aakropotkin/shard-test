@@ -1,1 +1,0 @@
-{ name = "wl-color-picker"; }

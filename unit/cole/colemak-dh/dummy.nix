@@ -1,1 +1,0 @@
-{ name = "colemak-dh"; }

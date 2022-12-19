@@ -1,1 +1,0 @@
-{ name = "fingerd_bsd"; }

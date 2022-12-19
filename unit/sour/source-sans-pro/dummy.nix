@@ -1,1 +1,0 @@
-{ name = "source-sans-pro"; }

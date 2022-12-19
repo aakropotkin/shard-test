@@ -1,1 +1,0 @@
-{ name = "nuget-to-nix"; }

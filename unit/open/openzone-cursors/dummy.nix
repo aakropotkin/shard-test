@@ -1,1 +1,0 @@
-{ name = "openzone-cursors"; }

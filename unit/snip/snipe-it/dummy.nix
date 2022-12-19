@@ -1,1 +1,0 @@
-{ name = "snipe-it"; }

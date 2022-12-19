@@ -1,1 +1,0 @@
-{ name = "warsow-engine"; }

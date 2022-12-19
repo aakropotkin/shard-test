@@ -1,1 +1,0 @@
-{ name = "vobsub2srt"; }

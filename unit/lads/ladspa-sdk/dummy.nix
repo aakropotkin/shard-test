@@ -1,1 +1,0 @@
-{ name = "ladspa-sdk"; }

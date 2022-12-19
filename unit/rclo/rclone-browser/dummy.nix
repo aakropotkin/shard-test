@@ -1,1 +1,0 @@
-{ name = "rclone-browser"; }

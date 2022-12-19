@@ -1,1 +1,0 @@
-{ name = "ubootpine64lts"; }

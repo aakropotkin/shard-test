@@ -1,1 +1,0 @@
-{ name = "varnish71"; }

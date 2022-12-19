@@ -1,1 +1,0 @@
-{ name = "gradle_5"; }

@@ -1,1 +1,0 @@
-{ name = "inkscape-with-extensions"; }

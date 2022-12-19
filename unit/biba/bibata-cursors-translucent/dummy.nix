@@ -1,1 +1,0 @@
-{ name = "bibata-cursors-translucent"; }

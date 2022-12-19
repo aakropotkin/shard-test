@@ -1,1 +1,0 @@
-{ name = "flat-remix-gtk"; }

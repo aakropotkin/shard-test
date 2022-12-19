@@ -1,1 +1,0 @@
-{ name = "gnome43extensions"; }

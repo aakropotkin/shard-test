@@ -1,1 +1,0 @@
-{ name = "apache-directory-server"; }

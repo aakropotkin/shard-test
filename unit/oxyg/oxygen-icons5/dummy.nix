@@ -1,1 +1,0 @@
-{ name = "oxygen-icons5"; }

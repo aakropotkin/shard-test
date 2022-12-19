@@ -1,1 +1,0 @@
-{ name = "amazon-qldb-shell"; }

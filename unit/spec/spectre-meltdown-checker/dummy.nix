@@ -1,1 +1,0 @@
-{ name = "spectre-meltdown-checker"; }

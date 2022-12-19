@@ -1,1 +1,0 @@
-{ name = "mynewt-newt"; }

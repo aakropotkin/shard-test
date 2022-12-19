@@ -1,1 +1,0 @@
-{ name = "mupen64plus"; }

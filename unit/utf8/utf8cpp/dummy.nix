@@ -1,1 +1,0 @@
-{ name = "utf8cpp"; }

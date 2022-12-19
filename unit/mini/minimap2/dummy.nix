@@ -1,1 +1,0 @@
-{ name = "minimap2"; }

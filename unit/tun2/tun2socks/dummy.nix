@@ -1,1 +1,0 @@
-{ name = "tun2socks"; }

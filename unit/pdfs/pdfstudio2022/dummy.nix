@@ -1,1 +1,0 @@
-{ name = "pdfstudio2022"; }

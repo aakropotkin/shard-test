@@ -1,1 +1,0 @@
-{ name = "rabbitmq-java-client"; }

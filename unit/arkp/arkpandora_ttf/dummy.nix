@@ -1,1 +1,0 @@
-{ name = "arkpandora_ttf"; }

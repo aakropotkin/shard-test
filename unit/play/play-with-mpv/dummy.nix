@@ -1,1 +1,0 @@
-{ name = "play-with-mpv"; }

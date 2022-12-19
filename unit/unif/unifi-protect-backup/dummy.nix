@@ -1,1 +1,0 @@
-{ name = "unifi-protect-backup"; }

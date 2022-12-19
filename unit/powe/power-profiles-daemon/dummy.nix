@@ -1,1 +1,0 @@
-{ name = "power-profiles-daemon"; }

@@ -1,1 +1,0 @@
-{ name = "reiser4progs"; }

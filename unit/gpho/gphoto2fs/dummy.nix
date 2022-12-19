@@ -1,1 +1,0 @@
-{ name = "gphoto2fs"; }

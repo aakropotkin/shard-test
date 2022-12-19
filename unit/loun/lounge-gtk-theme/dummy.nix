@@ -1,1 +1,0 @@
-{ name = "lounge-gtk-theme"; }

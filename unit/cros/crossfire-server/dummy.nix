@@ -1,1 +1,0 @@
-{ name = "crossfire-server"; }

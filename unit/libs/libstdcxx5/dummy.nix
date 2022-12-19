@@ -1,1 +1,0 @@
-{ name = "libstdcxx5"; }

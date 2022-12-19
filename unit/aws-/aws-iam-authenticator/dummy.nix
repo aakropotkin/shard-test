@@ -1,1 +1,0 @@
-{ name = "aws-iam-authenticator"; }

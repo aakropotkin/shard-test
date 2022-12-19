@@ -1,1 +1,0 @@
-{ name = "mitmproxy2swagger"; }

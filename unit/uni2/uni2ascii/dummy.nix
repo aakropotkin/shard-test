@@ -1,1 +1,0 @@
-{ name = "uni2ascii"; }

@@ -1,1 +1,0 @@
-{ name = "deadd-notification-center"; }

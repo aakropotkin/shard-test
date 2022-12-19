@@ -1,1 +1,0 @@
-{ name = "fluent-icon-theme"; }

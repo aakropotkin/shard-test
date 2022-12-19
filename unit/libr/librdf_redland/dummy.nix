@@ -1,1 +1,0 @@
-{ name = "librdf_redland"; }

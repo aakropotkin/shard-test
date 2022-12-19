@@ -1,1 +1,0 @@
-{ name = "yaru-remix-theme"; }

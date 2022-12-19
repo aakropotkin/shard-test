@@ -1,1 +1,0 @@
-{ name = "openhantek6022"; }

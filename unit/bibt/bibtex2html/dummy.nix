@@ -1,1 +1,0 @@
-{ name = "bibtex2html"; }

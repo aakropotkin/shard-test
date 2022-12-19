@@ -1,1 +1,0 @@
-{ name = "paperless-ng"; }

@@ -1,1 +1,0 @@
-{ name = "go-license-detector"; }

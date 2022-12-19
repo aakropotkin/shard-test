@@ -1,1 +1,0 @@
-{ name = "slint-lsp"; }

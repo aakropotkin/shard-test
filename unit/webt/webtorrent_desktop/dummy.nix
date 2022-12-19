@@ -1,1 +1,0 @@
-{ name = "webtorrent_desktop"; }

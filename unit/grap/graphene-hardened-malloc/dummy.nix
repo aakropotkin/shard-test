@@ -1,1 +1,0 @@
-{ name = "graphene-hardened-malloc"; }

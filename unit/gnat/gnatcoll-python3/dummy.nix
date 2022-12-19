@@ -1,1 +1,0 @@
-{ name = "gnatcoll-python3"; }

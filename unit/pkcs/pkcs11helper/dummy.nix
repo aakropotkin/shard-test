@@ -1,1 +1,0 @@
-{ name = "pkcs11helper"; }

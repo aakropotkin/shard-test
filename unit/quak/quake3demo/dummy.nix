@@ -1,1 +1,0 @@
-{ name = "quake3demo"; }

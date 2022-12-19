@@ -1,1 +1,0 @@
-{ name = "openrazer-daemon"; }

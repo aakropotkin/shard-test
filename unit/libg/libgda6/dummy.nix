@@ -1,1 +1,0 @@
-{ name = "libgda6"; }

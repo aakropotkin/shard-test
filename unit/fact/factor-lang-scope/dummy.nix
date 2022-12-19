@@ -1,1 +1,0 @@
-{ name = "factor-lang-scope"; }

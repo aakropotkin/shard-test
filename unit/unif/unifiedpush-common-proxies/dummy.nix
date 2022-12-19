@@ -1,1 +1,0 @@
-{ name = "unifiedpush-common-proxies"; }

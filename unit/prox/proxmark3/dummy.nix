@@ -1,1 +1,0 @@
-{ name = "proxmark3"; }

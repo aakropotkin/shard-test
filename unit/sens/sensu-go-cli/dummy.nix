@@ -1,1 +1,0 @@
-{ name = "sensu-go-cli"; }

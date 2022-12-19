@@ -1,1 +1,0 @@
-{ name = "grml-zsh-config"; }

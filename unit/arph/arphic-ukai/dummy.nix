@@ -1,1 +1,0 @@
-{ name = "arphic-ukai"; }

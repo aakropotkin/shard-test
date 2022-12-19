@@ -1,1 +1,0 @@
-{ name = "xcbuild6hook"; }

@@ -1,1 +1,0 @@
-{ name = "gdk-pixbuf-xlib"; }

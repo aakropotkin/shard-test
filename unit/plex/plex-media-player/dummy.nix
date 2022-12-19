@@ -1,1 +1,0 @@
-{ name = "plex-media-player"; }

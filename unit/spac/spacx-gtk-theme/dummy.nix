@@ -1,1 +1,0 @@
-{ name = "spacx-gtk-theme"; }

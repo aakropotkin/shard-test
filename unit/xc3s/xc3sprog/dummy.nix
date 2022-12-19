@@ -1,1 +1,0 @@
-{ name = "xc3sprog"; }

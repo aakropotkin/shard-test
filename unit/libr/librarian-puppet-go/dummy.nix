@@ -1,1 +1,0 @@
-{ name = "librarian-puppet-go"; }

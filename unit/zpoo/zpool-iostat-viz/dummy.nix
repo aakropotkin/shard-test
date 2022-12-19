@@ -1,1 +1,0 @@
-{ name = "zpool-iostat-viz"; }

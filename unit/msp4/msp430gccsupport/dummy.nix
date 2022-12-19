@@ -1,1 +1,0 @@
-{ name = "msp430gccsupport"; }

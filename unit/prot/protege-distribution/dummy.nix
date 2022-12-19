@@ -1,1 +1,0 @@
-{ name = "protege-distribution"; }

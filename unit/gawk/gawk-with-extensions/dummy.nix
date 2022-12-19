@@ -1,1 +1,0 @@
-{ name = "gawk-with-extensions"; }

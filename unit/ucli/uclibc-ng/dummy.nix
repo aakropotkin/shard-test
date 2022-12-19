@@ -1,1 +1,0 @@
-{ name = "uclibc-ng"; }

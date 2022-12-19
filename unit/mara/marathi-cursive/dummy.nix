@@ -1,1 +1,0 @@
-{ name = "marathi-cursive"; }

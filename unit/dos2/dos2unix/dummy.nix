@@ -1,1 +1,0 @@
-{ name = "dos2unix"; }

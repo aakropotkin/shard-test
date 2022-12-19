@@ -1,1 +1,0 @@
-{ name = "jool-cli"; }

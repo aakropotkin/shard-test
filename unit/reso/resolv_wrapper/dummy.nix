@@ -1,1 +1,0 @@
-{ name = "resolv_wrapper"; }

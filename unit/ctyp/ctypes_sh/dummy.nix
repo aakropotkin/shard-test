@@ -1,1 +1,0 @@
-{ name = "ctypes_sh"; }

@@ -1,1 +1,0 @@
-{ name = "thunderbird-bin"; }

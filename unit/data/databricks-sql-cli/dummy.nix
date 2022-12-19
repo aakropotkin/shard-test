@@ -1,1 +1,0 @@
-{ name = "databricks-sql-cli"; }

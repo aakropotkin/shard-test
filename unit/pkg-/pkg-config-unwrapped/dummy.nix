@@ -1,1 +1,0 @@
-{ name = "pkg-config-unwrapped"; }

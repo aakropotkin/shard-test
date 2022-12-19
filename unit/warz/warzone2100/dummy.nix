@@ -1,1 +1,0 @@
-{ name = "warzone2100"; }

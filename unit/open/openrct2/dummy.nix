@@ -1,1 +1,0 @@
-{ name = "openrct2"; }

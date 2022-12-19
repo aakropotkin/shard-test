@@ -1,1 +1,0 @@
-{ name = "wine64packages"; }

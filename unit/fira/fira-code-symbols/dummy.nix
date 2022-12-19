@@ -1,1 +1,0 @@
-{ name = "fira-code-symbols"; }

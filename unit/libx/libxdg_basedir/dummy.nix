@@ -1,1 +1,0 @@
-{ name = "libxdg_basedir"; }

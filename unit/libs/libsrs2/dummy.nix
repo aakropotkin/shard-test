@@ -1,1 +1,0 @@
-{ name = "libsrs2"; }

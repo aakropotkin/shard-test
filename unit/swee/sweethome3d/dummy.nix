@@ -1,1 +1,0 @@
-{ name = "sweethome3d"; }

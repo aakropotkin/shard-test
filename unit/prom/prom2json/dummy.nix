@@ -1,1 +1,0 @@
-{ name = "prom2json"; }

@@ -1,1 +1,0 @@
-{ name = "pcmanx-gtk2"; }

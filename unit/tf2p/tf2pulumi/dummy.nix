@@ -1,1 +1,0 @@
-{ name = "tf2pulumi"; }

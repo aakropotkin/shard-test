@@ -1,1 +1,0 @@
-{ name = "slurm-spank-stunnel"; }

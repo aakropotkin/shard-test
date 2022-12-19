@@ -1,1 +1,0 @@
-{ name = "rs-git-fsmonitor"; }

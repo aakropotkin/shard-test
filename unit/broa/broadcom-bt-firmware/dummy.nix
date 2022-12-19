@@ -1,1 +1,0 @@
-{ name = "broadcom-bt-firmware"; }

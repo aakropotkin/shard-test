@@ -1,1 +1,0 @@
-{ name = "midi-trigger"; }

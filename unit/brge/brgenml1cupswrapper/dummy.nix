@@ -1,1 +1,0 @@
-{ name = "brgenml1cupswrapper"; }

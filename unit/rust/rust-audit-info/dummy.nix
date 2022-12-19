@@ -1,1 +1,0 @@
-{ name = "rust-audit-info"; }

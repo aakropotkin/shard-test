@@ -1,1 +1,0 @@
-{ name = "ensemble-chorus"; }

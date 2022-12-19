@@ -1,1 +1,0 @@
-{ name = "grub4dos"; }

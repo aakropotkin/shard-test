@@ -1,1 +1,0 @@
-{ name = "aws-sdk-cpp"; }

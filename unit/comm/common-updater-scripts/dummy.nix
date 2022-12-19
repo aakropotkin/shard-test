@@ -1,1 +1,0 @@
-{ name = "common-updater-scripts"; }

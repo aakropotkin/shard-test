@@ -1,1 +1,0 @@
-{ name = "kawkab-mono-font"; }

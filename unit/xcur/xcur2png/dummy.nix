@@ -1,1 +1,0 @@
-{ name = "xcur2png"; }

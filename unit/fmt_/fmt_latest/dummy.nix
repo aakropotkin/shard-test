@@ -1,1 +1,0 @@
-{ name = "fmt_latest"; }

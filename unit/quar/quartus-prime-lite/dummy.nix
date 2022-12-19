@@ -1,1 +1,0 @@
-{ name = "quartus-prime-lite"; }

@@ -1,1 +1,0 @@
-{ name = "createrepo_c"; }

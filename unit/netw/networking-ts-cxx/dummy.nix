@@ -1,1 +1,0 @@
-{ name = "networking-ts-cxx"; }

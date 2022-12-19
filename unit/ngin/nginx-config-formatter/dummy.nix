@@ -1,1 +1,0 @@
-{ name = "nginx-config-formatter"; }

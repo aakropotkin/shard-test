@@ -1,1 +1,0 @@
-{ name = "liberation_ttf"; }

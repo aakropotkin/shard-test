@@ -1,1 +1,0 @@
-{ name = "gtk-mac-bundler"; }

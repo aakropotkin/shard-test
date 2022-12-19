@@ -1,1 +1,0 @@
-{ name = "pa_applet"; }

@@ -1,1 +1,0 @@
-{ name = "https-dns-proxy"; }

@@ -1,1 +1,0 @@
-{ name = "scorched3d"; }

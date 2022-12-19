@@ -1,1 +1,0 @@
-{ name = "graphite-kde-theme"; }

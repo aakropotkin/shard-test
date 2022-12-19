@@ -1,1 +1,0 @@
-{ name = "ia-writer-duospace"; }

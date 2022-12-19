@@ -1,1 +1,0 @@
-{ name = "cargo-sync-readme"; }

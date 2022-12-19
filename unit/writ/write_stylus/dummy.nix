@@ -1,1 +1,0 @@
-{ name = "write_stylus"; }

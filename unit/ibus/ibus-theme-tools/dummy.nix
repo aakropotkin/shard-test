@@ -1,1 +1,0 @@
-{ name = "ibus-theme-tools"; }

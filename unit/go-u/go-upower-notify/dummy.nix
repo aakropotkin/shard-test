@@ -1,1 +1,0 @@
-{ name = "go-upower-notify"; }

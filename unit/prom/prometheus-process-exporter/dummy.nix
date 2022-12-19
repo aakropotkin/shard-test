@@ -1,1 +1,0 @@
-{ name = "prometheus-process-exporter"; }

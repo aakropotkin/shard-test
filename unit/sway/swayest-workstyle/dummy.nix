@@ -1,1 +1,0 @@
-{ name = "swayest-workstyle"; }

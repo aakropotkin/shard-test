@@ -1,1 +1,0 @@
-{ name = "ghc-standalone-archive"; }

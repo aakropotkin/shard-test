@@ -1,1 +1,0 @@
-{ name = "linux-wifi-hotspot"; }

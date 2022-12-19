@@ -1,1 +1,0 @@
-{ name = "nethack-x11"; }

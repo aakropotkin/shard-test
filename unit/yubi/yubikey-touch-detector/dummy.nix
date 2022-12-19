@@ -1,1 +1,0 @@
-{ name = "yubikey-touch-detector"; }

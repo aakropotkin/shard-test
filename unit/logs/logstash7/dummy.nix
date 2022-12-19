@@ -1,1 +1,0 @@
-{ name = "logstash7"; }

@@ -1,1 +1,0 @@
-{ name = "adapta-gtk-theme"; }

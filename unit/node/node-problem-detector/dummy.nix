@@ -1,1 +1,0 @@
-{ name = "node-problem-detector"; }

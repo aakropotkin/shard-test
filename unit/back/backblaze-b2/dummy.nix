@@ -1,1 +1,0 @@
-{ name = "backblaze-b2"; }

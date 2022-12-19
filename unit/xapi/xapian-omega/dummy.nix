@@ -1,1 +1,0 @@
-{ name = "xapian-omega"; }

@@ -1,1 +1,0 @@
-{ name = "plasma-browser-integration"; }

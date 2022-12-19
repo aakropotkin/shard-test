@@ -1,1 +1,0 @@
-{ name = "hol_light"; }

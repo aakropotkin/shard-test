@@ -1,1 +1,0 @@
-{ name = "nitrokey-udev-rules"; }

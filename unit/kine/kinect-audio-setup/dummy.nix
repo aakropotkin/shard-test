@@ -1,1 +1,0 @@
-{ name = "kinect-audio-setup"; }

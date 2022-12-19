@@ -1,1 +1,0 @@
-{ name = "bash_unit"; }

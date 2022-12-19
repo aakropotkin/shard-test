@@ -1,1 +1,0 @@
-{ name = "restic-rest-server"; }

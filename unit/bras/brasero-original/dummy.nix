@@ -1,1 +1,0 @@
-{ name = "brasero-original"; }

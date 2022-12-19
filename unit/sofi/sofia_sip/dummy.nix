@@ -1,1 +1,0 @@
-{ name = "sofia_sip"; }

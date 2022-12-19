@@ -1,1 +1,0 @@
-{ name = "fdk-aac-encoder"; }

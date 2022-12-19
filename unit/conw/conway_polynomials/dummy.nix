@@ -1,1 +1,0 @@
-{ name = "conway_polynomials"; }

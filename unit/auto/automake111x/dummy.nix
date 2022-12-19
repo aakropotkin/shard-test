@@ -1,1 +1,0 @@
-{ name = "automake111x"; }

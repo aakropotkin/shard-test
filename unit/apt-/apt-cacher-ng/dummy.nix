@@ -1,1 +1,0 @@
-{ name = "apt-cacher-ng"; }

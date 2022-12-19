@@ -1,1 +1,0 @@
-{ name = "crypto-org-wallet"; }

@@ -1,1 +1,0 @@
-{ name = "gif-for-cli"; }

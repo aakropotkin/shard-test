@@ -1,1 +1,0 @@
-{ name = "vistafonts-cht"; }

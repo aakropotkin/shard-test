@@ -1,1 +1,0 @@
-{ name = "kwin-dynamic-workspaces"; }

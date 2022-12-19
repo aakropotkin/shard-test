@@ -1,1 +1,0 @@
-{ name = "polytopes_db"; }

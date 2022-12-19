@@ -1,1 +1,0 @@
-{ name = "xmlrpc_c"; }

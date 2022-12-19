@@ -1,1 +1,0 @@
-{ name = "kreative-square-fonts"; }

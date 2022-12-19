@@ -1,1 +1,0 @@
-{ name = "thin-provisioning-tools"; }

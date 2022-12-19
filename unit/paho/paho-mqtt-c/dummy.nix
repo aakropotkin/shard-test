@@ -1,1 +1,0 @@
-{ name = "paho-mqtt-c"; }

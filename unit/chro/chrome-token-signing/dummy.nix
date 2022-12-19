@@ -1,1 +1,0 @@
-{ name = "chrome-token-signing"; }

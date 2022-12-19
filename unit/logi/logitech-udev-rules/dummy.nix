@@ -1,1 +1,0 @@
-{ name = "logitech-udev-rules"; }

@@ -1,1 +1,0 @@
-{ name = "plata-theme"; }

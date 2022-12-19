@@ -1,1 +1,0 @@
-{ name = "postgresql12packages"; }

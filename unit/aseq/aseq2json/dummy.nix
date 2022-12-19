@@ -1,1 +1,0 @@
-{ name = "aseq2json"; }

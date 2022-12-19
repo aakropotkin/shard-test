@@ -1,1 +1,0 @@
-{ name = "shticker-book-unwritten"; }

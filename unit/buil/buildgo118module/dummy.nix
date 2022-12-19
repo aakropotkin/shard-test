@@ -1,1 +1,0 @@
-{ name = "buildgo118module"; }

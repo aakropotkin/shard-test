@@ -1,1 +1,0 @@
-{ name = "moka-icon-theme"; }

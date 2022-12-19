@@ -1,1 +1,0 @@
-{ name = "lightdm_qt"; }

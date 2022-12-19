@@ -1,1 +1,0 @@
-{ name = "mozlz4a"; }

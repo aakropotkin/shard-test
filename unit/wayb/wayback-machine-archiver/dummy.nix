@@ -1,1 +1,0 @@
-{ name = "wayback-machine-archiver"; }

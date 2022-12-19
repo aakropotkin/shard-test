@@ -1,1 +1,0 @@
-{ name = "osrm-backend"; }

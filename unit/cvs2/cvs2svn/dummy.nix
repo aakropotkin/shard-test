@@ -1,1 +1,0 @@
-{ name = "cvs2svn"; }

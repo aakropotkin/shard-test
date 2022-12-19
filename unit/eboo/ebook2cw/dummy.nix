@@ -1,1 +1,0 @@
-{ name = "ebook2cw"; }

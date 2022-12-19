@@ -1,1 +1,0 @@
-{ name = "npapi_sdk"; }

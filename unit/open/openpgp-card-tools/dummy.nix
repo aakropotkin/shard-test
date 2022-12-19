@@ -1,1 +1,0 @@
-{ name = "openpgp-card-tools"; }

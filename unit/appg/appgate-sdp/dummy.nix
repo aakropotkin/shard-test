@@ -1,1 +1,0 @@
-{ name = "appgate-sdp"; }

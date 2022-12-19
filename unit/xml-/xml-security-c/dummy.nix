@@ -1,1 +1,0 @@
-{ name = "xml-security-c"; }

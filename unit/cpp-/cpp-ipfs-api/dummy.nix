@@ -1,1 +1,0 @@
-{ name = "cpp-ipfs-api"; }

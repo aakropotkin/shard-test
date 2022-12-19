@@ -1,1 +1,0 @@
-{ name = "libid3tag"; }

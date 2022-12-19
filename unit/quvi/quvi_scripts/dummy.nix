@@ -1,1 +1,0 @@
-{ name = "quvi_scripts"; }

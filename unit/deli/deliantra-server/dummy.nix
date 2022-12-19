@@ -1,1 +1,0 @@
-{ name = "deliantra-server"; }

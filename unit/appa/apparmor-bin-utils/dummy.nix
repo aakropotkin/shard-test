@@ -1,1 +1,0 @@
-{ name = "apparmor-bin-utils"; }

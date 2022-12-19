@@ -1,1 +1,0 @@
-{ name = "gcc_latest"; }

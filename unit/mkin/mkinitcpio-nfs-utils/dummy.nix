@@ -1,1 +1,0 @@
-{ name = "mkinitcpio-nfs-utils"; }

@@ -1,1 +1,0 @@
-{ name = "systembus-notify"; }

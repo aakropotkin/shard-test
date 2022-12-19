@@ -1,1 +1,0 @@
-{ name = "gnuplot_qt"; }

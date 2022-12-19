@@ -1,1 +1,0 @@
-{ name = "unicon-lang"; }

@@ -1,1 +1,0 @@
-{ name = "binutils_nogold"; }

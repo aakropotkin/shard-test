@@ -1,1 +1,0 @@
-{ name = "blocksat-cli"; }

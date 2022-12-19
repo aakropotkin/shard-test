@@ -1,1 +1,0 @@
-{ name = "bluetooth_battery"; }

@@ -1,1 +1,0 @@
-{ name = "yubico-piv-tool"; }

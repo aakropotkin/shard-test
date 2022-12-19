@@ -1,1 +1,0 @@
-{ name = "poppler_data"; }

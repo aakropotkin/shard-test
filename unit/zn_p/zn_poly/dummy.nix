@@ -1,1 +1,0 @@
-{ name = "zn_poly"; }

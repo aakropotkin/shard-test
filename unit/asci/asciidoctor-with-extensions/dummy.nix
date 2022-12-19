@@ -1,1 +1,0 @@
-{ name = "asciidoctor-with-extensions"; }

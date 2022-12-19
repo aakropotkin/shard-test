@@ -1,1 +1,0 @@
-{ name = "time-ghc-modules"; }

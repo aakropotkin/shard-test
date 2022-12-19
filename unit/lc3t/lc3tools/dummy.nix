@@ -1,1 +1,0 @@
-{ name = "lc3tools"; }

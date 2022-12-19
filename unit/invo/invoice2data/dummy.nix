@@ -1,1 +1,0 @@
-{ name = "invoice2data"; }

@@ -1,1 +1,0 @@
-{ name = "trezor-udev-rules"; }

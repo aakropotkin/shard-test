@@ -1,1 +1,0 @@
-{ name = "wiimms-iso-tools"; }

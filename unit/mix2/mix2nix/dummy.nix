@@ -1,1 +1,0 @@
-{ name = "mix2nix"; }

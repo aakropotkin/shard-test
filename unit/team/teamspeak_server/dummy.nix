@@ -1,1 +1,0 @@
-{ name = "teamspeak_server"; }

@@ -1,1 +1,0 @@
-{ name = "libbpf_1"; }

@@ -1,1 +1,0 @@
-{ name = "gprof2dot"; }

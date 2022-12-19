@@ -1,1 +1,0 @@
-{ name = "pgf_graphics"; }

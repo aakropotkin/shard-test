@@ -1,1 +1,0 @@
-{ name = "solarc-gtk-theme"; }

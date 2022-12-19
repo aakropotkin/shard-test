@@ -1,1 +1,0 @@
-{ name = "nice-dcv-client"; }

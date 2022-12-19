@@ -1,1 +1,0 @@
-{ name = "opencolorio_1"; }

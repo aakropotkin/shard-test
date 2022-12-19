@@ -1,1 +1,0 @@
-{ name = "microsoft-edge-beta"; }

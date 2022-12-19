@@ -1,1 +1,0 @@
-{ name = "tsm-client-withgui"; }

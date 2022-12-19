@@ -1,1 +1,0 @@
-{ name = "lv2lint"; }

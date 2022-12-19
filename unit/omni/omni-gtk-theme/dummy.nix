@@ -1,1 +1,0 @@
-{ name = "omni-gtk-theme"; }

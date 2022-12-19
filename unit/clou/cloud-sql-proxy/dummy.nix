@@ -1,1 +1,0 @@
-{ name = "cloud-sql-proxy"; }

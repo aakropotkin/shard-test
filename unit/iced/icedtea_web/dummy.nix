@@ -1,1 +1,0 @@
-{ name = "icedtea_web"; }

@@ -1,1 +1,0 @@
-{ name = "lightdm-tiny-greeter"; }

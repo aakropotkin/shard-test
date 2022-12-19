@@ -1,1 +1,0 @@
-{ name = "pro-office-calculator"; }

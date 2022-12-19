@@ -1,1 +1,0 @@
-{ name = "pypy39packages"; }

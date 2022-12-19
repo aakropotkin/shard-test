@@ -1,1 +1,0 @@
-{ name = "spatialite_tools"; }

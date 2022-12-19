@@ -1,1 +1,0 @@
-{ name = "calamares-nixos-extensions"; }

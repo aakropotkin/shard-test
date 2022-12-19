@@ -1,1 +1,0 @@
-{ name = "pgo-client"; }

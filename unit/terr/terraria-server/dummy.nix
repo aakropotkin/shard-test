@@ -1,1 +1,0 @@
-{ name = "terraria-server"; }

@@ -1,1 +1,0 @@
-{ name = "vaapi-intel-hybrid"; }

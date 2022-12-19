@@ -1,1 +1,0 @@
-{ name = "iio-sensor-proxy"; }

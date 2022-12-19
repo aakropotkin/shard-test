@@ -1,1 +1,0 @@
-{ name = "docbook-xsl-ns"; }

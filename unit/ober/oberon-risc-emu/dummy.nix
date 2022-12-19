@@ -1,1 +1,0 @@
-{ name = "oberon-risc-emu"; }

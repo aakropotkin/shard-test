@@ -1,1 +1,0 @@
-{ name = "synology-drive-client"; }

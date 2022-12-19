@@ -1,1 +1,0 @@
-{ name = "intel-compute-runtime"; }

@@ -1,1 +1,0 @@
-{ name = "abbaye-des-morts"; }

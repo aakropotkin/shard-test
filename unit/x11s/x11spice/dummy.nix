@@ -1,1 +1,0 @@
-{ name = "x11spice"; }

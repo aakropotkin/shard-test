@@ -1,1 +1,0 @@
-{ name = "eureka-editor"; }

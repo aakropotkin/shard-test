@@ -1,1 +1,0 @@
-{ name = "swtpm-tpm2"; }

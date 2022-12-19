@@ -1,1 +1,0 @@
-{ name = "twemoji-color-font"; }

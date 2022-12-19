@@ -1,1 +1,0 @@
-{ name = "mutt-with-sidebar"; }

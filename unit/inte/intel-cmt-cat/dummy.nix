@@ -1,1 +1,0 @@
-{ name = "intel-cmt-cat"; }

@@ -1,1 +1,0 @@
-{ name = "libbs2b"; }

@@ -1,1 +1,0 @@
-{ name = "tes3cmd"; }

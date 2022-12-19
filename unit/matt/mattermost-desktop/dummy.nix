@@ -1,1 +1,0 @@
-{ name = "mattermost-desktop"; }

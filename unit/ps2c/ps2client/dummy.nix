@@ -1,1 +1,0 @@
-{ name = "ps2client"; }

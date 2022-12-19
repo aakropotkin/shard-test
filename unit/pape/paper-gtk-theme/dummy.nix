@@ -1,1 +1,0 @@
-{ name = "paper-gtk-theme"; }

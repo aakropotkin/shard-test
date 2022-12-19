@@ -1,1 +1,0 @@
-{ name = "mediainfo-gui"; }

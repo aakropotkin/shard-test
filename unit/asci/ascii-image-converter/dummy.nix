@@ -1,1 +1,0 @@
-{ name = "ascii-image-converter"; }

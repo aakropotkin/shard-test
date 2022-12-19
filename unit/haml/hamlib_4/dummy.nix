@@ -1,1 +1,0 @@
-{ name = "hamlib_4"; }

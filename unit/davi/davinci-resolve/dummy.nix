@@ -1,1 +1,0 @@
-{ name = "davinci-resolve"; }

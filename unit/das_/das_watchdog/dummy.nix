@@ -1,1 +1,0 @@
-{ name = "das_watchdog"; }

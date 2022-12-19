@@ -1,1 +1,0 @@
-{ name = "lm_sensors"; }

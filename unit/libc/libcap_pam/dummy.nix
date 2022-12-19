@@ -1,1 +1,0 @@
-{ name = "libcap_pam"; }

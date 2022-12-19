@@ -1,1 +1,0 @@
-{ name = "ubootolimexa64olinuxino"; }

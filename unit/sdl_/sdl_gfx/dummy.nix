@@ -1,1 +1,0 @@
-{ name = "sdl_gfx"; }

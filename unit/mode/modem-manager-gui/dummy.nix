@@ -1,1 +1,0 @@
-{ name = "modem-manager-gui"; }

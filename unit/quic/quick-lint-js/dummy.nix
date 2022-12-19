@@ -1,1 +1,0 @@
-{ name = "quick-lint-js"; }

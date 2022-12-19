@@ -1,1 +1,0 @@
-{ name = "jd-diff-patch"; }

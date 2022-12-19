@@ -1,1 +1,0 @@
-{ name = "trezor_agent"; }

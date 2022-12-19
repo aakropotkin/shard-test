@@ -1,1 +1,0 @@
-{ name = "redhat-official-fonts"; }

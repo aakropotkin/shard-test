@@ -1,1 +1,0 @@
-{ name = "sonar-scanner-cli"; }

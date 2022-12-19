@@ -1,1 +1,0 @@
-{ name = "openexr_2"; }

@@ -1,1 +1,0 @@
-{ name = "dosemu_fonts"; }

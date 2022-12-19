@@ -1,1 +1,0 @@
-{ name = "soapysdr-with-plugins"; }

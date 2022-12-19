@@ -1,1 +1,0 @@
-{ name = "elm-github-install"; }

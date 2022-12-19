@@ -1,1 +1,0 @@
-{ name = "glibc_multi"; }

@@ -1,1 +1,0 @@
-{ name = "owncloud-client"; }

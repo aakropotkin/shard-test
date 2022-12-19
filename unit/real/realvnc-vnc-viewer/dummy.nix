@@ -1,1 +1,0 @@
-{ name = "realvnc-vnc-viewer"; }

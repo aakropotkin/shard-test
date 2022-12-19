@@ -1,1 +1,0 @@
-{ name = "ssh-key-confirmer"; }

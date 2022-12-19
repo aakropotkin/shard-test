@@ -1,1 +1,0 @@
-{ name = "lguf-brightness"; }

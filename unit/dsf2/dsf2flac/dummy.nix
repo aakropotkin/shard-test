@@ -1,1 +1,0 @@
-{ name = "dsf2flac"; }

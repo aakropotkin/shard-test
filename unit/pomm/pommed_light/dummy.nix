@@ -1,1 +1,0 @@
-{ name = "pommed_light"; }

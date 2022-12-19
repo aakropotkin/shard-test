@@ -1,1 +1,0 @@
-{ name = "nix-template-rpm"; }

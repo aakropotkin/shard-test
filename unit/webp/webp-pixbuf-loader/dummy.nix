@@ -1,1 +1,0 @@
-{ name = "webp-pixbuf-loader"; }

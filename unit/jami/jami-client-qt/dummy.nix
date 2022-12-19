@@ -1,1 +1,0 @@
-{ name = "jami-client-qt"; }

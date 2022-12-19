@@ -1,1 +1,0 @@
-{ name = "modsecurity_standalone"; }

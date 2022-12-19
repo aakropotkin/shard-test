@@ -1,1 +1,0 @@
-{ name = "hal-hardware-analyzer"; }

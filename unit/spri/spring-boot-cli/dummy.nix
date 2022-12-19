@@ -1,1 +1,0 @@
-{ name = "spring-boot-cli"; }

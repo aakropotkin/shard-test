@@ -1,1 +1,0 @@
-{ name = "bfg-repo-cleaner"; }

@@ -1,1 +1,0 @@
-{ name = "isomd5sum"; }

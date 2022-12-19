@@ -1,1 +1,0 @@
-{ name = "ipv6calc"; }

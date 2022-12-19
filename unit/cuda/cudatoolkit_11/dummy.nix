@@ -1,1 +1,0 @@
-{ name = "cudatoolkit_11"; }

@@ -1,1 +1,0 @@
-{ name = "datafusion-cli"; }

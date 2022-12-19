@@ -1,1 +1,0 @@
-{ name = "upnp-router-control"; }

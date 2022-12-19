@@ -1,1 +1,0 @@
-{ name = "xib2nib"; }

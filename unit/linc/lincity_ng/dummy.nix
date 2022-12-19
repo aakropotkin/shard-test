@@ -1,1 +1,0 @@
-{ name = "lincity_ng"; }

@@ -1,1 +1,0 @@
-{ name = "bluejeans-gui"; }

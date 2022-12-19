@@ -1,1 +1,0 @@
-{ name = "cloudsmith-cli"; }

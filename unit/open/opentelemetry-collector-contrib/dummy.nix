@@ -1,1 +1,0 @@
-{ name = "opentelemetry-collector-contrib"; }

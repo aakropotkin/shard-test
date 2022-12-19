@@ -1,1 +1,0 @@
-{ name = "clog-cli"; }

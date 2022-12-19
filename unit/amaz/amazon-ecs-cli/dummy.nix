@@ -1,1 +1,0 @@
-{ name = "amazon-ecs-cli"; }
