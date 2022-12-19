@@ -2,7 +2,7 @@
 .DEFAULT_GOAL = all
 
 NIX       = nix
-NIX_FLAGS = --extra-experimental-features 'nix-command' --impure
+NIX_FLAGS = --extra-experimental-features 'nix-command flakes' --impure
 RM        = rm -f
 
 CLEANDIRS = unit
