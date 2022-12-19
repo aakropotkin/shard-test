@@ -1,0 +1,1 @@
+{ name = "hledger-check-fancyassertions"; }

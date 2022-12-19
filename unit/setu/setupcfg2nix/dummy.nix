@@ -1,0 +1,1 @@
+{ name = "setupcfg2nix"; }

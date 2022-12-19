@@ -1,0 +1,1 @@
+{ name = "nats-server"; }

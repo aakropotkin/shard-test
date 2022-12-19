@@ -1,0 +1,1 @@
+{ name = "paratype-pt-serif"; }

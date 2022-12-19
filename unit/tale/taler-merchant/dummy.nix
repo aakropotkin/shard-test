@@ -1,0 +1,1 @@
+{ name = "taler-merchant"; }

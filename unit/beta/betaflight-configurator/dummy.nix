@@ -1,0 +1,1 @@
+{ name = "betaflight-configurator"; }

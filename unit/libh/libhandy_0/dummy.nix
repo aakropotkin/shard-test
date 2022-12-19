@@ -1,0 +1,1 @@
+{ name = "libhandy_0"; }

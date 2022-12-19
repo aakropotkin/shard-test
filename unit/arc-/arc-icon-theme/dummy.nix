@@ -1,0 +1,1 @@
+{ name = "arc-icon-theme"; }

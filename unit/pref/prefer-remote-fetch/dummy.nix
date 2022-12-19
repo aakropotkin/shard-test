@@ -1,0 +1,1 @@
+{ name = "prefer-remote-fetch"; }

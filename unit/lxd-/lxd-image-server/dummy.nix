@@ -1,0 +1,1 @@
+{ name = "lxd-image-server"; }

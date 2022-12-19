@@ -1,0 +1,1 @@
+{ name = "supercollider-with-plugins"; }

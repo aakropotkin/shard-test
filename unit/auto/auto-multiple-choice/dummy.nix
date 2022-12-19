@@ -1,0 +1,1 @@
+{ name = "auto-multiple-choice"; }

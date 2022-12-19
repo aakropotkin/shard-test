@@ -1,0 +1,1 @@
+{ name = "indicator-sound-switcher"; }

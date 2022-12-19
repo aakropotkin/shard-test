@@ -1,0 +1,1 @@
+{ name = "crd2pulumi"; }

@@ -1,0 +1,1 @@
+{ name = "radicle-cli"; }

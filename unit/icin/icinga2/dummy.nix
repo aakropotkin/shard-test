@@ -1,0 +1,1 @@
+{ name = "icinga2"; }

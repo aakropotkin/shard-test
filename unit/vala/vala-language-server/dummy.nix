@@ -1,0 +1,1 @@
+{ name = "vala-language-server"; }

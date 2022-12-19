@@ -1,0 +1,1 @@
+{ name = "zfs-prune-snapshots"; }

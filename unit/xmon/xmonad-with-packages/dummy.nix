@@ -1,0 +1,1 @@
+{ name = "xmonad-with-packages"; }

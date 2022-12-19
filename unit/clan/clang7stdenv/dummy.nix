@@ -1,0 +1,1 @@
+{ name = "clang7stdenv"; }

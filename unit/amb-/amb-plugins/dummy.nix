@@ -1,0 +1,1 @@
+{ name = "amb-plugins"; }

@@ -1,0 +1,1 @@
+{ name = "sierra-gtk-theme"; }

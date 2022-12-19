@@ -1,0 +1,1 @@
+{ name = "xdg-user-dirs"; }

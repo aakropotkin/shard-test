@@ -1,0 +1,1 @@
+{ name = "realesrgan-ncnn-vulkan"; }

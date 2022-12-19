@@ -1,0 +1,1 @@
+{ name = "whitesur-gtk-theme"; }

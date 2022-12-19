@@ -1,0 +1,1 @@
+{ name = "libinotify-kqueue"; }

@@ -1,0 +1,1 @@
+{ name = "pari-seadata-small"; }

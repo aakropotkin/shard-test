@@ -1,0 +1,1 @@
+{ name = "libreelec-dvb-firmware"; }

@@ -1,0 +1,1 @@
+{ name = "elasticmq-server-bin"; }

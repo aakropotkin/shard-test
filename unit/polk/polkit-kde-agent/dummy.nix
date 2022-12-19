@@ -1,0 +1,1 @@
+{ name = "polkit-kde-agent"; }

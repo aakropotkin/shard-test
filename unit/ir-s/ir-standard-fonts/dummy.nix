@@ -1,0 +1,1 @@
+{ name = "ir-standard-fonts"; }

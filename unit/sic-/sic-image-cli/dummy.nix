@@ -1,0 +1,1 @@
+{ name = "sic-image-cli"; }

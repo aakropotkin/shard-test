@@ -1,0 +1,1 @@
+{ name = "freeciv_gtk"; }

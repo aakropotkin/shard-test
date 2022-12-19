@@ -1,0 +1,1 @@
+{ name = "cargo-semver-checks"; }

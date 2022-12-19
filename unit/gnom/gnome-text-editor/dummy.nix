@@ -1,0 +1,1 @@
+{ name = "gnome-text-editor"; }

@@ -1,0 +1,1 @@
+{ name = "lite-xl"; }

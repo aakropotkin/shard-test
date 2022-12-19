@@ -1,0 +1,1 @@
+{ name = "libportal-gtk4"; }

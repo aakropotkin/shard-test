@@ -1,0 +1,1 @@
+{ name = "libsoup_3"; }

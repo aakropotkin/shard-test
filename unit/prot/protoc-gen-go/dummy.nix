@@ -1,0 +1,1 @@
+{ name = "protoc-gen-go"; }

@@ -1,0 +1,1 @@
+{ name = "gxplugins-lv2"; }

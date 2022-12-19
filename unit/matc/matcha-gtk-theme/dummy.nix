@@ -1,0 +1,1 @@
+{ name = "matcha-gtk-theme"; }

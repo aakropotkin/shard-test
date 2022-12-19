@@ -1,0 +1,1 @@
+{ name = "tezos-rust-libs"; }

@@ -1,0 +1,1 @@
+{ name = "wooting-udev-rules"; }

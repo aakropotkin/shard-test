@@ -1,0 +1,1 @@
+{ name = "ocf-resource-agents"; }

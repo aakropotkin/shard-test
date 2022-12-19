@@ -1,0 +1,1 @@
+{ name = "kuma-prometheus-sd"; }

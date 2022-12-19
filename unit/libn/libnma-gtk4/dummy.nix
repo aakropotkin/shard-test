@@ -1,0 +1,1 @@
+{ name = "libnma-gtk4"; }

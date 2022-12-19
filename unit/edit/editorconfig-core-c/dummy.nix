@@ -1,0 +1,1 @@
+{ name = "editorconfig-core-c"; }

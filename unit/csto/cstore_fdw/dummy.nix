@@ -1,0 +1,1 @@
+{ name = "cstore_fdw"; }

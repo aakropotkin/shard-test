@@ -1,0 +1,1 @@
+{ name = "arduino-language-server"; }

@@ -1,0 +1,1 @@
+{ name = "kubeval-schema"; }

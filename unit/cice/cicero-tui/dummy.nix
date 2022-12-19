@@ -1,0 +1,1 @@
+{ name = "cicero-tui"; }

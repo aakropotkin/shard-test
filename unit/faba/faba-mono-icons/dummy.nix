@@ -1,0 +1,1 @@
+{ name = "faba-mono-icons"; }

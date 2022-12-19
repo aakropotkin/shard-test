@@ -1,0 +1,1 @@
+{ name = "qscintilla-qt4"; }

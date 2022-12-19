@@ -1,0 +1,1 @@
+{ name = "libvisio2svg"; }

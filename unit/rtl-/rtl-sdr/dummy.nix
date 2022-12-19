@@ -1,0 +1,1 @@
+{ name = "rtl-sdr"; }

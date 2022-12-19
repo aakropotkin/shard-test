@@ -1,0 +1,1 @@
+{ name = "gotify-cli"; }

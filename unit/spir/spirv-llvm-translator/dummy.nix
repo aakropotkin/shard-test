@@ -1,0 +1,1 @@
+{ name = "spirv-llvm-translator"; }

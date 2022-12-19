@@ -1,0 +1,1 @@
+{ name = "libjson-rpc-cpp"; }

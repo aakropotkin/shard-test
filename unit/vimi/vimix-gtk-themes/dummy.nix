@@ -1,0 +1,1 @@
+{ name = "vimix-gtk-themes"; }

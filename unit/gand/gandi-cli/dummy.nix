@@ -1,0 +1,1 @@
+{ name = "gandi-cli"; }

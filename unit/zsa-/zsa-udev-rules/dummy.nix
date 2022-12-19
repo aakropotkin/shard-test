@@ -1,0 +1,1 @@
+{ name = "zsa-udev-rules"; }

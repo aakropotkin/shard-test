@@ -1,0 +1,1 @@
+{ name = "pkgconf-unwrapped"; }

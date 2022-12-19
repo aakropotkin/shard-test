@@ -1,0 +1,1 @@
+{ name = "pinentry-gtk2"; }

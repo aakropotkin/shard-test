@@ -1,0 +1,1 @@
+{ name = "libmt32emu"; }

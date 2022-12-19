@@ -1,0 +1,1 @@
+{ name = "kde-cli-tools"; }

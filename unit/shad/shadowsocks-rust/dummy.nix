@@ -1,0 +1,1 @@
+{ name = "shadowsocks-rust"; }

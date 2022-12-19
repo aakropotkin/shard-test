@@ -1,0 +1,1 @@
+{ name = "geany-with-vte"; }

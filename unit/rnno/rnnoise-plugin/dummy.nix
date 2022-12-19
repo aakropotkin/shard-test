@@ -1,0 +1,1 @@
+{ name = "rnnoise-plugin"; }

@@ -1,0 +1,1 @@
+{ name = "numix-cursor-theme"; }

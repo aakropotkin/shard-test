@@ -1,0 +1,1 @@
+{ name = "libidn2"; }

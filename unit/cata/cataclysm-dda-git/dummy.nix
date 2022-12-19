@@ -1,0 +1,1 @@
+{ name = "cataclysm-dda-git"; }

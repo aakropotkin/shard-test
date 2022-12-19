@@ -1,0 +1,1 @@
+{ name = "sdat2img"; }

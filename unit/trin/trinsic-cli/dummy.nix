@@ -1,0 +1,1 @@
+{ name = "trinsic-cli"; }

@@ -1,0 +1,1 @@
+{ name = "libindicator-gtk3"; }

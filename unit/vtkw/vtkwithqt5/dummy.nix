@@ -1,0 +1,1 @@
+{ name = "vtkwithqt5"; }

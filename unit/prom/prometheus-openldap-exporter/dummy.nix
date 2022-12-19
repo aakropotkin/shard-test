@@ -1,0 +1,1 @@
+{ name = "prometheus-openldap-exporter"; }

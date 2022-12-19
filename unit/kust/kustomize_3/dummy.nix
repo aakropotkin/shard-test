@@ -1,0 +1,1 @@
+{ name = "kustomize_3"; }

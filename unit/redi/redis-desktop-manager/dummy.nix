@@ -1,0 +1,1 @@
+{ name = "redis-desktop-manager"; }

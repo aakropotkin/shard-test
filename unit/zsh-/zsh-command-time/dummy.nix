@@ -1,0 +1,1 @@
+{ name = "zsh-command-time"; }

@@ -1,0 +1,1 @@
+{ name = "zigbee2mqtt"; }

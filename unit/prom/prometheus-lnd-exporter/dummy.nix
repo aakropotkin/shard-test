@@ -1,0 +1,1 @@
+{ name = "prometheus-lnd-exporter"; }

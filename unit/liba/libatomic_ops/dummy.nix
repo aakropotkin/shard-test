@@ -1,0 +1,1 @@
+{ name = "libatomic_ops"; }

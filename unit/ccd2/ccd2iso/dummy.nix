@@ -1,0 +1,1 @@
+{ name = "ccd2iso"; }

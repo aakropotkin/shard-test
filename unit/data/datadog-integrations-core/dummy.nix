@@ -1,0 +1,1 @@
+{ name = "datadog-integrations-core"; }

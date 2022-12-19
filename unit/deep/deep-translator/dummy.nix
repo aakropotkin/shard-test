@@ -1,0 +1,1 @@
+{ name = "deep-translator"; }

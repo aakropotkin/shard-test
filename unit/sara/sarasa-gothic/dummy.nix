@@ -1,0 +1,1 @@
+{ name = "sarasa-gothic"; }

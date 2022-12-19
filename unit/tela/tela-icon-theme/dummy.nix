@@ -1,0 +1,1 @@
+{ name = "tela-icon-theme"; }

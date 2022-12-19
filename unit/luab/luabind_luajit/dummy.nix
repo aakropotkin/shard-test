@@ -1,0 +1,1 @@
+{ name = "luabind_luajit"; }

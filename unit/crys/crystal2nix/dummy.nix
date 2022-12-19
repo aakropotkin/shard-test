@@ -1,0 +1,1 @@
+{ name = "crystal2nix"; }

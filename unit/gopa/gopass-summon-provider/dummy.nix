@@ -1,0 +1,1 @@
+{ name = "gopass-summon-provider"; }

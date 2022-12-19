@@ -1,0 +1,1 @@
+{ name = "cbor-diag"; }

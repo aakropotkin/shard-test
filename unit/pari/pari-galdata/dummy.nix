@@ -1,0 +1,1 @@
+{ name = "pari-galdata"; }

@@ -1,0 +1,1 @@
+{ name = "noto-fonts-cjk"; }

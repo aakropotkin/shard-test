@@ -1,0 +1,1 @@
+{ name = "haskell-language-server"; }

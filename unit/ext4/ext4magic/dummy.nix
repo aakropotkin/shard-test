@@ -1,0 +1,1 @@
+{ name = "ext4magic"; }

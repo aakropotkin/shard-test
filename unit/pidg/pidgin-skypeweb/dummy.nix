@@ -1,0 +1,1 @@
+{ name = "pidgin-skypeweb"; }

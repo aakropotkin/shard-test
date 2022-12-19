@@ -1,0 +1,1 @@
+{ name = "qbittorrent-nox"; }

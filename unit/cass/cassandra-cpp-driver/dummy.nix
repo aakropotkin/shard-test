@@ -1,0 +1,1 @@
+{ name = "cassandra-cpp-driver"; }

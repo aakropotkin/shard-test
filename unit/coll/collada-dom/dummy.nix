@@ -1,0 +1,1 @@
+{ name = "collada-dom"; }

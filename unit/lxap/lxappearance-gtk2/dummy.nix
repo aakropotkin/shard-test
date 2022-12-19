@@ -1,0 +1,1 @@
+{ name = "lxappearance-gtk2"; }

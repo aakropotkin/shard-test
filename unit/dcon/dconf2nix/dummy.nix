@@ -1,0 +1,1 @@
+{ name = "dconf2nix"; }

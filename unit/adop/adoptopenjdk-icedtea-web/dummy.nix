@@ -1,0 +1,1 @@
+{ name = "adoptopenjdk-icedtea-web"; }

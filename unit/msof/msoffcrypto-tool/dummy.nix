@@ -1,0 +1,1 @@
+{ name = "msoffcrypto-tool"; }

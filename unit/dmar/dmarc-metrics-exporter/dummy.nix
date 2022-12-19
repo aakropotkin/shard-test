@@ -1,0 +1,1 @@
+{ name = "dmarc-metrics-exporter"; }

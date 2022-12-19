@@ -1,0 +1,1 @@
+{ name = "rofi-power-menu"; }

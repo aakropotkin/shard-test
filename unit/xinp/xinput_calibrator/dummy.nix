@@ -1,0 +1,1 @@
+{ name = "xinput_calibrator"; }

@@ -1,0 +1,1 @@
+{ name = "dmg2img"; }

@@ -1,0 +1,1 @@
+{ name = "lightdm-slick-greeter"; }

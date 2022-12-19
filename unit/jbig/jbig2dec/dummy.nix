@@ -1,0 +1,1 @@
+{ name = "jbig2dec"; }

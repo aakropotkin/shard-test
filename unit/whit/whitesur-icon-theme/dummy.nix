@@ -1,0 +1,1 @@
+{ name = "whitesur-icon-theme"; }

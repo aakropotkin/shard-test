@@ -1,0 +1,1 @@
+{ name = "nordzy-cursor-theme"; }

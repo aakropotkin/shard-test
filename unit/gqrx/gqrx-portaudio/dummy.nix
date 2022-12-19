@@ -1,0 +1,1 @@
+{ name = "gqrx-portaudio"; }

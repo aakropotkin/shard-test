@@ -1,0 +1,1 @@
+{ name = "nixos-install-tools"; }

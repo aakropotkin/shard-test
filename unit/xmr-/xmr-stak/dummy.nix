@@ -1,0 +1,1 @@
+{ name = "xmr-stak"; }

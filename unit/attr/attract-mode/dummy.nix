@@ -1,0 +1,1 @@
+{ name = "attract-mode"; }

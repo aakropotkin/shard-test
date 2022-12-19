@@ -1,0 +1,1 @@
+{ name = "firewalld-gui"; }

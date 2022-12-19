@@ -1,0 +1,1 @@
+{ name = "humanity-icon-theme"; }

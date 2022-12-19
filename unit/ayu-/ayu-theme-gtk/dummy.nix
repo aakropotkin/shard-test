@@ -1,0 +1,1 @@
+{ name = "ayu-theme-gtk"; }

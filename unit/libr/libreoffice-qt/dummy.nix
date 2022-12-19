@@ -1,0 +1,1 @@
+{ name = "libreoffice-qt"; }

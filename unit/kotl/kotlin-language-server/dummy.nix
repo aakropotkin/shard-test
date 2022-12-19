@@ -1,0 +1,1 @@
+{ name = "kotlin-language-server"; }

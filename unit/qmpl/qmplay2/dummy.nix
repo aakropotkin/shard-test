@@ -1,0 +1,1 @@
+{ name = "qmplay2"; }

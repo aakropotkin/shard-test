@@ -1,0 +1,1 @@
+{ name = "openapi-generator-cli"; }

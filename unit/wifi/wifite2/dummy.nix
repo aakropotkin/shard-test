@@ -1,0 +1,1 @@
+{ name = "wifite2"; }

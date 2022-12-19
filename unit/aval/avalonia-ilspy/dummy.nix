@@ -1,0 +1,1 @@
+{ name = "avalonia-ilspy"; }

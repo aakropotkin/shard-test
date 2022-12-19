@@ -1,0 +1,1 @@
+{ name = "notepad-next"; }

@@ -1,0 +1,1 @@
+{ name = "adapta-kde-theme"; }

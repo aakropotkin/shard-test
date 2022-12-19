@@ -1,0 +1,1 @@
+{ name = "libmp3splt"; }

@@ -1,0 +1,1 @@
+{ name = "minetestclient_5"; }

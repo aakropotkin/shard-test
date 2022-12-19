@@ -1,0 +1,1 @@
+{ name = "fabric-installer"; }

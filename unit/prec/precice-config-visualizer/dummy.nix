@@ -1,0 +1,1 @@
+{ name = "precice-config-visualizer"; }

@@ -1,0 +1,1 @@
+{ name = "purple-plugin-pack"; }

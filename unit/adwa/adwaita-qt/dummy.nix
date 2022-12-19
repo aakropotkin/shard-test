@@ -1,0 +1,1 @@
+{ name = "adwaita-qt"; }

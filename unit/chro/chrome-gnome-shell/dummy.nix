@@ -1,0 +1,1 @@
+{ name = "chrome-gnome-shell"; }

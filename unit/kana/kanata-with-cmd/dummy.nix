@@ -1,0 +1,1 @@
+{ name = "kanata-with-cmd"; }

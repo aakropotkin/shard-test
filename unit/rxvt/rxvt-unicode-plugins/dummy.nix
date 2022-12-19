@@ -1,0 +1,1 @@
+{ name = "rxvt-unicode-plugins"; }

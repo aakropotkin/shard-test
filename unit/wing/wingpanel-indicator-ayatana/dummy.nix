@@ -1,0 +1,1 @@
+{ name = "wingpanel-indicator-ayatana"; }

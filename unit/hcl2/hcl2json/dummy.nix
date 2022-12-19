@@ -1,0 +1,1 @@
+{ name = "hcl2json"; }

@@ -1,0 +1,1 @@
+{ name = "torrent7z"; }

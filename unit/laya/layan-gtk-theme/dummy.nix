@@ -1,0 +1,1 @@
+{ name = "layan-gtk-theme"; }

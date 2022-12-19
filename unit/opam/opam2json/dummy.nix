@@ -1,0 +1,1 @@
+{ name = "opam2json"; }

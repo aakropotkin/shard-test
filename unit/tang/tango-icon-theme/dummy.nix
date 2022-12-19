@@ -1,0 +1,1 @@
+{ name = "tango-icon-theme"; }

@@ -1,0 +1,1 @@
+{ name = "papirus-icon-theme"; }

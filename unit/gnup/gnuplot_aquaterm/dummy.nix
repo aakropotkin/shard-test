@@ -1,0 +1,1 @@
+{ name = "gnuplot_aquaterm"; }

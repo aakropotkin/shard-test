@@ -1,0 +1,1 @@
+{ name = "prometheus-dmarc-exporter"; }

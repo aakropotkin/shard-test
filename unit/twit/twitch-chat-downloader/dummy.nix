@@ -1,0 +1,1 @@
+{ name = "twitch-chat-downloader"; }

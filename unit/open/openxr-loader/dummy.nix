@@ -1,0 +1,1 @@
+{ name = "openxr-loader"; }

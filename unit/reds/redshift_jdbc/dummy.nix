@@ -1,0 +1,1 @@
+{ name = "redshift_jdbc"; }

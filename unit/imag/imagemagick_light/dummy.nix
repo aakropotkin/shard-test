@@ -1,0 +1,1 @@
+{ name = "imagemagick_light"; }

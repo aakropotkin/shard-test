@@ -1,0 +1,1 @@
+{ name = "androidndkpkgs_21"; }

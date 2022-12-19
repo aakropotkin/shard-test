@@ -1,0 +1,1 @@
+{ name = "intel-media-sdk"; }

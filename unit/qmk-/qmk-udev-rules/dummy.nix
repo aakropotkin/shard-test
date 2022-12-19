@@ -1,0 +1,1 @@
+{ name = "qmk-udev-rules"; }

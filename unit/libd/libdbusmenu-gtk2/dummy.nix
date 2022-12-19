@@ -1,0 +1,1 @@
+{ name = "libdbusmenu-gtk2"; }

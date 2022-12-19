@@ -1,0 +1,1 @@
+{ name = "nix-zsh-completions"; }

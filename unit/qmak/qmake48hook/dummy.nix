@@ -1,0 +1,1 @@
+{ name = "qmake48hook"; }

@@ -1,0 +1,1 @@
+{ name = "libsignal-protocol-c"; }

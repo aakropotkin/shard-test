@@ -1,0 +1,1 @@
+{ name = "mariadb-connector-c"; }

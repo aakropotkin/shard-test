@@ -1,0 +1,1 @@
+{ name = "libappindicator-gtk2"; }

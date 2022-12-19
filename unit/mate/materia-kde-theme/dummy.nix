@@ -1,0 +1,1 @@
+{ name = "materia-kde-theme"; }

@@ -1,0 +1,1 @@
+{ name = "git-remote-codecommit"; }

@@ -1,0 +1,1 @@
+{ name = "lhs2tex"; }

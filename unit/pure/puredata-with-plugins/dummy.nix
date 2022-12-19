@@ -1,0 +1,1 @@
+{ name = "puredata-with-plugins"; }

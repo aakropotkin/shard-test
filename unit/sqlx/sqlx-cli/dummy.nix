@@ -1,0 +1,1 @@
+{ name = "sqlx-cli"; }

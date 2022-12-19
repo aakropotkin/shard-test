@@ -1,0 +1,1 @@
+{ name = "zsh-system-clipboard"; }

@@ -1,0 +1,1 @@
+{ name = "libe57format"; }

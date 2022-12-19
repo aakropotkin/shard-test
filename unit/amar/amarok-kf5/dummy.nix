@@ -1,0 +1,1 @@
+{ name = "amarok-kf5"; }

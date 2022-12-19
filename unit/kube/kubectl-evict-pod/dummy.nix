@@ -1,0 +1,1 @@
+{ name = "kubectl-evict-pod"; }

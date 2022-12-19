@@ -1,0 +1,1 @@
+{ name = "libnest2d"; }

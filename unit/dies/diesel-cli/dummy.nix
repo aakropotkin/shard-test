@@ -1,0 +1,1 @@
+{ name = "diesel-cli"; }

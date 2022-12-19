@@ -1,0 +1,1 @@
+{ name = "bitbucket-server-cli"; }

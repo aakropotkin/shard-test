@@ -1,0 +1,1 @@
+{ name = "googleearth-pro"; }

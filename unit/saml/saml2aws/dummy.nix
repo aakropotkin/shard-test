@@ -1,0 +1,1 @@
+{ name = "saml2aws"; }

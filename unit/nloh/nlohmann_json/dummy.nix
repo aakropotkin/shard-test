@@ -1,0 +1,1 @@
+{ name = "nlohmann_json"; }

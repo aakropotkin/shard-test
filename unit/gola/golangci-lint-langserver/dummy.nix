@@ -1,0 +1,1 @@
+{ name = "golangci-lint-langserver"; }

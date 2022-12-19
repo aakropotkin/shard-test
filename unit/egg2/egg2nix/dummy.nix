@@ -1,0 +1,1 @@
+{ name = "egg2nix"; }

@@ -1,0 +1,1 @@
+{ name = "prometheus-bird-exporter"; }

@@ -1,0 +1,1 @@
+{ name = "osm-gps-map"; }

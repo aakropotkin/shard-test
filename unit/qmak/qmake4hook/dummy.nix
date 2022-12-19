@@ -1,0 +1,1 @@
+{ name = "qmake4hook"; }

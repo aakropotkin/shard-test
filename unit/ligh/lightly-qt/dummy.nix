@@ -1,0 +1,1 @@
+{ name = "lightly-qt"; }

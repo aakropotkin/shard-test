@@ -1,0 +1,1 @@
+{ name = "kapitonov-plugins-pack"; }

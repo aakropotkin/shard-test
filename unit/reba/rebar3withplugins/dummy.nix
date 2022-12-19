@@ -1,0 +1,1 @@
+{ name = "rebar3withplugins"; }

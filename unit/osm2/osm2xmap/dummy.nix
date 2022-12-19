@@ -1,0 +1,1 @@
+{ name = "osm2xmap"; }

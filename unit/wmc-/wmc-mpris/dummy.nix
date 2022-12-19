@@ -1,0 +1,1 @@
+{ name = "wmc-mpris"; }

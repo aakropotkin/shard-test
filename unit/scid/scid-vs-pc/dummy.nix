@@ -1,0 +1,1 @@
+{ name = "scid-vs-pc"; }

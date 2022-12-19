@@ -1,0 +1,1 @@
+{ name = "jami-daemon"; }

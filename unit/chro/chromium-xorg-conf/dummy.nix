@@ -1,0 +1,1 @@
+{ name = "chromium-xorg-conf"; }

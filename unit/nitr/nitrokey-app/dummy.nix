@@ -1,0 +1,1 @@
+{ name = "nitrokey-app"; }

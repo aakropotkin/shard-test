@@ -1,0 +1,1 @@
+{ name = "libsigrok4dsl"; }

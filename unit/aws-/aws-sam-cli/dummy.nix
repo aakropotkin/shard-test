@@ -1,0 +1,1 @@
+{ name = "aws-sam-cli"; }

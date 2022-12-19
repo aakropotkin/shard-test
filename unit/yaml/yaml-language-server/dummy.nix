@@ -1,0 +1,1 @@
+{ name = "yaml-language-server"; }

@@ -1,0 +1,1 @@
+{ name = "djvu2pdf"; }

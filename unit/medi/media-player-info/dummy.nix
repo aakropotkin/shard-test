@@ -1,0 +1,1 @@
+{ name = "media-player-info"; }

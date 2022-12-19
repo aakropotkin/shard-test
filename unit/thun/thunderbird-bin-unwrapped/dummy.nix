@@ -1,0 +1,1 @@
+{ name = "thunderbird-bin-unwrapped"; }

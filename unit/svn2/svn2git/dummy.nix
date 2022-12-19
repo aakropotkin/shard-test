@@ -1,0 +1,1 @@
+{ name = "svn2git"; }

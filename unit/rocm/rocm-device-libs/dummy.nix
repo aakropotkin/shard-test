@@ -1,0 +1,1 @@
+{ name = "rocm-device-libs"; }

@@ -1,0 +1,1 @@
+{ name = "yaml2json"; }

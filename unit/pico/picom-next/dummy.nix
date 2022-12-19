@@ -1,0 +1,1 @@
+{ name = "picom-next"; }

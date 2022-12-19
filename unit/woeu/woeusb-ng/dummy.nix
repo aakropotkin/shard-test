@@ -1,0 +1,1 @@
+{ name = "woeusb-ng"; }

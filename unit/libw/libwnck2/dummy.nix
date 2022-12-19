@@ -1,0 +1,1 @@
+{ name = "libwnck2"; }

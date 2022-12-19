@@ -1,0 +1,1 @@
+{ name = "solarus-quest-editor"; }

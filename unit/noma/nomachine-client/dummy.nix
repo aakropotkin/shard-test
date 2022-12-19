@@ -1,0 +1,1 @@
+{ name = "nomachine-client"; }

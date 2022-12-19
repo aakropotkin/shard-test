@@ -1,0 +1,1 @@
+{ name = "directx-shader-compiler"; }

@@ -1,0 +1,1 @@
+{ name = "bump2version"; }

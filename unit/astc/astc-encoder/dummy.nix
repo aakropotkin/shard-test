@@ -1,0 +1,1 @@
+{ name = "astc-encoder"; }

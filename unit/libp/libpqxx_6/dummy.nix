@@ -1,0 +1,1 @@
+{ name = "libpqxx_6"; }

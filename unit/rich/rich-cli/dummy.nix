@@ -1,0 +1,1 @@
+{ name = "rich-cli"; }

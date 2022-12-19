@@ -1,0 +1,1 @@
+{ name = "vscode-with-extensions"; }

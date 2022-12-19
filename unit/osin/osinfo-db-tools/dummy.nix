@@ -1,0 +1,1 @@
+{ name = "osinfo-db-tools"; }

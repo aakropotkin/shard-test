@@ -1,0 +1,1 @@
+{ name = "oranchelo-icon-theme"; }

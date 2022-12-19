@@ -1,0 +1,1 @@
+{ name = "libemf2svg"; }

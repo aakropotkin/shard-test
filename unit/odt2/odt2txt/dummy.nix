@@ -1,0 +1,1 @@
+{ name = "odt2txt"; }

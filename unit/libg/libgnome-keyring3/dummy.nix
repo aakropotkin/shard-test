@@ -1,0 +1,1 @@
+{ name = "libgnome-keyring3"; }

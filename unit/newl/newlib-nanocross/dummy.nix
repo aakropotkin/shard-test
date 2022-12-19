@@ -1,0 +1,1 @@
+{ name = "newlib-nanocross"; }

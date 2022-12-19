@@ -1,0 +1,1 @@
+{ name = "gcc12stdenv"; }

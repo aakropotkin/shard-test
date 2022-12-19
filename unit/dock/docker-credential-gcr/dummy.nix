@@ -1,0 +1,1 @@
+{ name = "docker-credential-gcr"; }

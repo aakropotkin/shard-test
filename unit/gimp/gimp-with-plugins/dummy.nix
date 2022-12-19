@@ -1,0 +1,1 @@
+{ name = "gimp-with-plugins"; }

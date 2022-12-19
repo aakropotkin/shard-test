@@ -1,0 +1,1 @@
+{ name = "giac-with-xcas"; }

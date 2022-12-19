@@ -1,0 +1,1 @@
+{ name = "gsettings-desktop-schemas"; }

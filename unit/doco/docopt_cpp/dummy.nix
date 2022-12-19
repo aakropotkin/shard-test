@@ -1,0 +1,1 @@
+{ name = "docopt_cpp"; }

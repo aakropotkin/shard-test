@@ -1,0 +1,1 @@
+{ name = "supercollider_scel"; }

@@ -1,0 +1,1 @@
+{ name = "xrandr-invert-colors"; }

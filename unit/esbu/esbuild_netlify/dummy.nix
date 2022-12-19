@@ -1,0 +1,1 @@
+{ name = "esbuild_netlify"; }

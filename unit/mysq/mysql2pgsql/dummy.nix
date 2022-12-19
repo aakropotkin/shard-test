@@ -1,0 +1,1 @@
+{ name = "mysql2pgsql"; }

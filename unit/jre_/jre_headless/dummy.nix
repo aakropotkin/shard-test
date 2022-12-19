@@ -1,0 +1,1 @@
+{ name = "jre_headless"; }

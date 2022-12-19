@@ -1,0 +1,1 @@
+{ name = "dump_syms"; }

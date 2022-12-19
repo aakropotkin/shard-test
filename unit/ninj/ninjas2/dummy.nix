@@ -1,0 +1,1 @@
+{ name = "ninjas2"; }

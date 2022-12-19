@@ -1,0 +1,1 @@
+{ name = "firefox-esr-wayland"; }

@@ -1,0 +1,1 @@
+{ name = "vboot_reference"; }

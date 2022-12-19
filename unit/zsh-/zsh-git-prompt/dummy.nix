@@ -1,0 +1,1 @@
+{ name = "zsh-git-prompt"; }

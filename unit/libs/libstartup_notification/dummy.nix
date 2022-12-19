@@ -1,0 +1,1 @@
+{ name = "libstartup_notification"; }

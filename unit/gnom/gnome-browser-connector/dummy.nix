@@ -1,0 +1,1 @@
+{ name = "gnome-browser-connector"; }

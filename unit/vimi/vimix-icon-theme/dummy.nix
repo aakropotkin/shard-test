@@ -1,0 +1,1 @@
+{ name = "vimix-icon-theme"; }

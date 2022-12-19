@@ -1,0 +1,1 @@
+{ name = "avr8burnomat"; }

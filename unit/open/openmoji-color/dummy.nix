@@ -1,0 +1,1 @@
+{ name = "openmoji-color"; }

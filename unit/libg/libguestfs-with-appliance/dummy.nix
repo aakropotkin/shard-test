@@ -1,0 +1,1 @@
+{ name = "libguestfs-with-appliance"; }

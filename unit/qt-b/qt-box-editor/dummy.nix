@@ -1,0 +1,1 @@
+{ name = "qt-box-editor"; }

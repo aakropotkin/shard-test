@@ -1,0 +1,1 @@
+{ name = "beancount-language-server"; }

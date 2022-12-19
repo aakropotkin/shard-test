@@ -1,0 +1,1 @@
+{ name = "gnu-pw-mgr"; }

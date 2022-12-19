@@ -1,0 +1,1 @@
+{ name = "pandoc-acro"; }

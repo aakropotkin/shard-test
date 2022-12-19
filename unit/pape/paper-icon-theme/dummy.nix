@@ -1,0 +1,1 @@
+{ name = "paper-icon-theme"; }

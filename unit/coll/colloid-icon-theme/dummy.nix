@@ -1,0 +1,1 @@
+{ name = "colloid-icon-theme"; }

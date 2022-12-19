@@ -1,0 +1,1 @@
+{ name = "graphicsmagick-imagemagick-compat"; }

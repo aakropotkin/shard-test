@@ -1,0 +1,1 @@
+{ name = "gscan2pdf"; }
